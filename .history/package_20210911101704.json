@@ -1,0 +1,26 @@
+{
+  "name": "Site_teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erick0708j/Site_teste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erick0708j/Site_teste/issues"
+  },
+  "homepage": "https://github.com/Erick0708j/Site_teste#readme",
+  "dependencies": {
+    "@chec/commerce.js": "^2.8.0",
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
